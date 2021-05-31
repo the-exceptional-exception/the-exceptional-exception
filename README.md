@@ -1,6 +1,4 @@
-![Image of text](https://github.com/the-exceptional-exception/the-exceptional-exception/blob/main/exception-al.png)
-## I’m a fighter. I'm a survivor. I'm a scientific thinker. I'm an aspiring bioinformatics engineer. I'm "the exception striving to become exceptional". 
-
+![text: "Exception(al)?"](https://github.com/the-exceptional-exception/the-exceptional-exception/blob/main/exception-al.png)
 - 👋 Hi, I’m @the-exceptional-exception
 - 💞️ Despite being hospitalized more than half the time of my three year long higher secondary education, I managed to get an 'A' in more than 20 of my courses included in the natural science programme. An exception, you might say.  
 - 🌱 I’m currently learning bioinformatics, programming in Python, machine learning — and most importantly — I am learning how to live again!
