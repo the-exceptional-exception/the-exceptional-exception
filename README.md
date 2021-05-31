@@ -1,4 +1,4 @@
-# Exception(al)?
+![Image of text](https://github.com/the-exceptional-exception/the-exceptional-exception/blob/main/exception-al.png)
 ## I’m a fighter. I'm a survivor. I'm a scientific thinker. I'm an aspiring bioinformatics engineer. I'm "the exception striving to become exceptional". 
 
 - 👋 Hi, I’m @the-exceptional-exception
@@ -7,11 +7,8 @@
 - 👀 I’m interested in biology, mathematics and programming.
 - 📫 How to reach me: the.exceptional.exception@gmail.com
 
-## My greatest passion? LIFE
-- Living it. 
-- Improving it.
-- Fighting for it. 
-- Exploring it. 
+## My greatest passion?
+![text: "LIFE"](https://github.com/the-exceptional-exception/the-exceptional-exception/blob/main/life.png)
 
 <!---
 the-exceptional-exception/the-exceptional-exception is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
