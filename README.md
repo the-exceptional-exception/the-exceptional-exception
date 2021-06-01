@@ -7,7 +7,7 @@
 
 ## I usually work in Visual Studio Code. Other skills:
  
-![Python logo](logos/Python/python.png) ![GIMP logo](logos/GIMP/gimp.png) ![Jupyter logo](logos/Jupyter/jupyter.png)
+![Python logo](logos/Python/python.png) &nbsp; ![GIMP logo](logos/GIMP/gimp.png) &nbsp; ![Jupyter logo](logos/Jupyter/jupyter.png)
 
 ## My greatest passion?
 ![text: "LIFE"](https://github.com/the-exceptional-exception/the-exceptional-exception/blob/main/life.png)
