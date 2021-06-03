@@ -1,4 +1,4 @@
-![text: "Exception(al)?"](https://github.com/the-exceptional-exception/the-exceptional-exception/blob/main/exception-al.png)
+![text: "Exception(al)?"](exception-al.png)
 - 👋 Hi, I’m @the-exceptional-exception
 - 💞️ Despite being hospitalized more than half the time of my three year long higher secondary education, I managed to get an 'A' in more than 20 of my courses included in the natural science programme. An exception, you might say.  
 - 🌱 I’m currently learning bioinformatics, programming in Python, machine learning — and most importantly — I am learning how to live again!
@@ -10,9 +10,4 @@
 ![Python logo](logos/Python/python.png) &nbsp; ![GIMP logo](logos/GIMP/gimp.png) &nbsp; ![Jupyter logo](logos/Jupyter/jupyter.png)
 
 ## My greatest passion?
-![text: "LIFE"](https://github.com/the-exceptional-exception/the-exceptional-exception/blob/main/life.png)
-
-<!---
-the-exceptional-exception/the-exceptional-exception is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![text: "LIFE"](life.png)
